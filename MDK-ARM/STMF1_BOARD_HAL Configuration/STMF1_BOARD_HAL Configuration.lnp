@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"stmf1_board_hal configuration\startup_stm32f100xb.o"
+"stmf1_board_hal configuration\main.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_msp.o"
+"stmf1_board_hal configuration\stm32f1xx_it.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_tim.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_gpio_ex.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_cortex.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_pwr.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_gpio.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_rcc.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_rcc_ex.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_uart.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_flash_ex.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_i2c.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_tim_ex.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_dma.o"
+"stmf1_board_hal configuration\stm32f1xx_hal.o"
+"stmf1_board_hal configuration\stm32f1xx_hal_flash.o"
+"stmf1_board_hal configuration\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "STMF1_BOARD_HAL Configuration\STMF1_BOARD_HAL Configuration.sct"
+
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STMF1_BOARD_HAL Configuration.map" -o "STMF1_BOARD_HAL Configuration\STMF1_BOARD_HAL Configuration.axf"

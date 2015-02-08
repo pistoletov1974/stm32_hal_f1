@@ -1,0 +1,472 @@
+Dependencies for Project 'STMF1_BOARD_HAL', Target 'STMF1_BOARD_HAL Configuration': (DO NOT MODIFY !)
+F (..\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\arm\startup_stm32f100xb.s)(0x54CD54C0)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include--list startup_stm32f100xb.lst --xref -o "stmf1_board_hal configuration\startup_stm32f100xb.o" --depend "stmf1_board_hal configuration\startup_stm32f100xb.d")
+F (..\Src\main.c)(0x54CE602A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\main.o" --omf_browse "stmf1_board_hal configuration\main.crf" --depend "stmf1_board_hal configuration\main.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+I (..\Inc\main.h)(0x54D77F10)
+F (..\Src\stm32f1xx_hal_msp.c)(0x54CD570E)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_msp.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_msp.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_msp.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Src\stm32f1xx_it.c)(0x54CD5584)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_it.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_it.crf" --depend "stmf1_board_hal configuration\stm32f1xx_it.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_it.h)(0x54CD5584)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_tim.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_tim.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_tim.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_gpio_ex.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_gpio_ex.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_gpio_ex.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_cortex.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_cortex.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_cortex.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_pwr.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_pwr.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_pwr.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_gpio.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_gpio.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_gpio.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_rcc.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_rcc.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_rcc.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_rcc_ex.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_rcc_ex.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_rcc_ex.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_uart.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_uart.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_uart.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_flash_ex.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_flash_ex.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_flash_ex.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_i2c.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_i2c.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_i2c.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_tim_ex.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_tim_ex.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_tim_ex.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_dma.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_dma.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_dma.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c)(0x54CD54CA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\stm32f1xx_hal_flash.o" --omf_browse "stmf1_board_hal configuration\stm32f1xx_hal_flash.crf" --depend "stmf1_board_hal configuration\stm32f1xx_hal_flash.d")
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)
+F (..\Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\system_stm32f1xx.c)(0x54CD54C0)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I..\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc -I..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy -I..\Drivers\CMSIS\Include -I..\Drivers\CMSIS\Device\ST\STM32F1xx\Include --C99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-DUSE_HAL_DRIVER -DSTM32F100xB-o "stmf1_board_hal configuration\system_stm32f1xx.o" --omf_browse "stmf1_board_hal configuration\system_stm32f1xx.crf" --depend "stmf1_board_hal configuration\system_stm32f1xx.d")
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f100xb.h)(0x54CD54C0)
+I (..\Drivers\CMSIS\Include\core_cm3.h)(0x54CD54C2)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (..\Drivers\CMSIS\Include\core_cmInstr.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Include\core_cmFunc.h)(0x54CD54C2)
+I (..\Drivers\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h)(0x54CD54C0)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h)(0x54CD54CA)
+I (..\Inc\stm32f1xx_hal_conf.h)(0x54CD5586)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy/stm32_hal_legacy.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_rcc_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_cortex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_flash_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_pwr.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h)(0x54CD54CA)
+I (..\Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h)(0x54CD54CA)

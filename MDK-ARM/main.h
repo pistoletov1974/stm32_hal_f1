@@ -1,0 +1,1 @@
+#define RXBUFFERSIZE                      10
